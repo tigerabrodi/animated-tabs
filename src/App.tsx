@@ -1,5 +1,9 @@
 function App() {
-  return <div>hello world</div>
+  return (
+    <main className="w-full h-full flex items-center justify-center">
+      hello world
+    </main>
+  )
 }
 
 export default App
